@@ -75,7 +75,7 @@ while True:
    
    else:
      print("Invalid input! Please try another number.")
-     
+
   except ValueError as e:
      logging.error(f"ValueError in main menu: {e}")
      print("Invalid input! Please try a valid number.")
