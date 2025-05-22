@@ -1,0 +1,8 @@
+2025-05-22 10:17:43,691 - ERROR - ValueError in main menu: invalid literal for int() with base 10: 'abc'
+2025-05-22 10:17:57,587 - ERROR - ValueError in main menu: invalid literal for int() with base 10: 'abc'
+2025-05-22 10:18:10,917 - ERROR - ValueError in main menu: invalid literal for int() with base 10: '/Users/lukeoverbeck/Downloads/Cognizant/venv/bin/python /Users/lukeoverbeck/Downloads/Cognizant/calculator.py'
+2025-05-22 10:24:04,632 - ERROR - ValueError in main menu: invalid literal for int() with base 10: '/Users/lukeoverbeck/Downloads/Cognizant/venv/bin/python /Users/lukeoverbeck/Downloads/Cognizant/calculator.py'
+2025-05-22 10:24:08,293 - ERROR - ValueError in main menu: invalid literal for int() with base 10: 'abc'
+ERROR - ValueError in main menu: invalid literal for int() with base 10: 'abc'
+ERROR - ValueError in main menu: invalid literal for int() with base 10: 'abc'
+ERROR - ValueError in main menu: invalid literal for int() with base 10: 'abc'
